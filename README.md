@@ -6,3 +6,4 @@ Pastejacking - PasteZort
 ./PasteZort.py
 
 
+# lolsmeshno
